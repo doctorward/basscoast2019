@@ -9,7 +9,7 @@ so if you're a big house fan, my star ratings will be less useful to you.
 Artist - Locale. (Label optional). Genre/description. (opinionated star rating)
 -------------------------------------------------------------------------------
 Abstrakt Sonance - BC. Deep dubstep. **
-Agrippa - UK. Bass music, dub techno, bashment **
+Agrippa - UK. Bass music, dub techno, bashment *
 AIDA - Vancouver. Tech house
 Alix Perez - EU. bass music **
 Alter Echo & E3 - Portland. Dub, dubstep. 
